@@ -1,0 +1,30 @@
+.credentials {
+    position: fixed;
+    bottom: 15px;
+    right: 10px;
+    color: #ffffff;
+}
+#LoginForm {
+    margin-top: 25px 
+}
+#ValidateAccount {
+    width: 50%;
+    margin: 25px auto;
+    text-align: center;    
+}
+#ValidateAccount button{
+    color: snow;
+    font-size: 1.2rem;  
+}
+.section1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section2{
+    background-color: #F2F2F2;
+    padding: 25px;
+}
+.win-button {
+    margin: 15px 5px;
+}  
