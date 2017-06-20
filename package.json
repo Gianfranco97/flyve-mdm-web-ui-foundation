@@ -33,5 +33,5 @@
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://gianfranco97.github.io/flyve-mdm-web-ui"
+  "homepage": "https://gianfranco97.github.io/flyve-mdm-web-ui-foundation"
 }
