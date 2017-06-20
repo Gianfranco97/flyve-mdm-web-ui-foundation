@@ -71,11 +71,11 @@ export default class Login extends React.Component<any, any> {
                             LOGIN
                         </button>
                     </form>
-                    
-                </div>
-                <span className="credentials" >
+                    <span className="credentials" >
                         A solution powered by &nbsp; <img src="img/logo-teclib-blanc-1-2.png" />
-                </span>
+                    </span>
+                </div>
+                
             </div>
         )
     }
